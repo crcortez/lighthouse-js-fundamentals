@@ -1,6 +1,6 @@
-const amounts = [61.00, 52.25, 112.99, 5.00];
-const total = 0;
-for (let amount of amounts) {
-  total += amount;
+var cry = function sound(sob) {
+  var wah = "boohoo!"
+  return wah;
 }
-console.log("Order total is: ", total);
+
+console.log(cry());
